@@ -11,3 +11,6 @@ A lottery game built width React.js, Solidity(smart contract), Truffle, ...
 - As a manager, I want to take 10 percent as fee 
 - As a player, will take 90% as a prize of the lottery
 - As a mananger, will take 10%
+
+
+![demo](https://user-images.githubusercontent.com/3954935/122979329-9d87be80-d3c1-11eb-8cb5-19520d4a14bd.png)
